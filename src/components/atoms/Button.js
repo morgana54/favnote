@@ -4,7 +4,7 @@ const Button = styled.button`
   @import url('https://fonts.googleapis.com/css?family=Montserrat:300,600');
 
   padding: 0;
-  background-color: ${({ theme }) => theme.primary};
+  background-color: ${({ theme }) => theme.note};
   width: 220px;
   height: 47px;
   border: none;
